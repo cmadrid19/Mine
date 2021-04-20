@@ -64,10 +64,10 @@ Hi, I'm Maxim. <img alt="Salute" src="https://github.com/cmadrid19/Mine/blob/mai
 ![](https://github-readme-stats.codestackr.vercel.app/api?username=cmadrid19&show_icons=true&hide_border=true)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cmadrid19&layout=compact)
 
 #### I'm also interested in:
-- Bitcoin <img align="left" alt="Bitcoin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png"/> <br/>
-- Accounting <br/>
-- Finance <br/>
-- MEMEs <br/>
+- Bitcoin 
+- Accounting 
+- Finance 
+- MEMEs
 
 <br/>
 
