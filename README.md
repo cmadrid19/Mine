@@ -53,9 +53,9 @@ Hi, I'm Maxim. <img alt="Salute" src="https://github.com/cmadrid19/Mine/blob/mai
 
 
 #### IDE's
-- <img align="left" alt="Visual Studio Code" width="26px" src="https://docs.microsoft.com/en-us/visualstudio/media/vs-ide-2019.svg?view=vs-2019"/> &nbsp; Visual Studio Code
-- <img align="left" alt="Android Studio" width="26px" src="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/d0/88/2a/d0882a24-5851-8833-ec52-5e2792e7ac8a/Xcode-85-220-0-4-2x.png/1200x630bb.png"/>&nbsp; XCode
-- <img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/> &nbsp;  Android Studio
+- <img align="left" alt="Visual Studio Code" width="26px" src="https://docs.microsoft.com/en-us/visualstudio/media/vs-ide-2019.svg?view=vs-2019"/> &nbsp; Visual Studio Code <br/>
+- <img align="left" alt="Android Studio" width="26px" src="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/d0/88/2a/d0882a24-5851-8833-ec52-5e2792e7ac8a/Xcode-85-220-0-4-2x.png/1200x630bb.png"/>&nbsp; XCode <br/>
+- <img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/> &nbsp;  Android Studio <br/>
 
 <div>
   <img align="left" alt="Maxim Macari GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cmadrid19&show_icons=true&hide_border=true" />
