@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <h1 align="center">
-Hi, I'm Maxim. <img alt="Salute" src="https://github.com/cmadrid19/Main/blob/main/assets/Hi.gif?raw=true" width="30px"/>
+Hi, I'm Maxim. <img alt="Salute" src="https://github.com/cmadrid19/Mine/blob/main/assets/Hi.gif?raw=true" width="30px"/>
 </h1>
 
 #### I like mobile application development! 📱
