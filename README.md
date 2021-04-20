@@ -58,30 +58,17 @@ Hi, I'm Maxim. <img alt="Salute" src="https://github.com/cmadrid19/Mine/blob/mai
 </table>
 <br/>
 
-
 <div>
   <img align="left" alt="Maxim Macari GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cmadrid19&show_icons=true&hide_border=true" />
   <img align="right" alt="Maxim Macari GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmadrid19&layout=compact"/> 
 </div>
 
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-&nbsp;
-&nbsp;
-&nbsp;
-
 #### I'm also interested in:
-
- - Bitcoin <img align="left" alt="Bitcoin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png"/>
- - Accounting
- - Finance
- - MEMEs
+- Bitcoin <img align="left" alt="Bitcoin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png"/>
+- Accounting
+- Finance
+- MEMEs
 
 <br/>
 
