@@ -58,10 +58,12 @@ Hi, I'm Maxim. <img alt="Salute" src="https://github.com/cmadrid19/Mine/blob/mai
 </table>
 <br/>
 
-<div>
+<div width="90%" height="400px">
   <img align="left" alt="Maxim Macari GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cmadrid19&show_icons=true&hide_border=true" />
   <img align="right" alt="Maxim Macari GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmadrid19&layout=compact"/> 
 </div>
+
+
 
 
 #### I'm also interested in:
