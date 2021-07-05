@@ -71,9 +71,6 @@ Hi, I'm Maxim. <img alt="Salute" src="https://github.com/cmadrid19/Mine/blob/mai
 
 <br/>
 
-<div align="center">
-<img alt="Ain't Much" width="300px" src="https://en.meming.world/images/en/thumb/b/be/But_It%27s_Honest_Work.jpg/600px-But_It%27s_Honest_Work.jpg" style="text-align: center;"/>
-</div>
 
 
 
