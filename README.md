@@ -30,7 +30,7 @@ Hi, I'm Maxim. <img alt="Salute" src="https://github.com/cmadrid19/Mine/blob/mai
   <tr>
     <td><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> &nbsp; JavaScript</td>
     <td><img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"/> &nbsp; JSON</td>
-    <td></td>
+    <td><img align="left" alt="Symfony" width="26px" src="https://avatars.githubusercontent.com/u/143937?s=200&v=4"/> &nbsp; Symfony</td>
     <td></td>
     <td><img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/> &nbsp;  Android Studio</td>
   </tr>
@@ -50,7 +50,7 @@ Hi, I'm Maxim. <img alt="Salute" src="https://github.com/cmadrid19/Mine/blob/mai
   </tr>
   <tr>
     <td><img align="left" alt="Dart" width="26px" src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4"/> &nbsp;Dart</td>
-    <td></td>
+    <td><img align="left" alt="Php" width="26px" src="https://avatars.githubusercontent.com/u/25158?s=200&v=4"/> &nbsp;Php</td>
     <td></td>
     <td></td>
     <td></td>
