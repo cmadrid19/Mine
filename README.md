@@ -4,7 +4,7 @@
 Hi, I'm Maxim. <img alt="Salute" src="https://github.com/cmadrid19/Mine/blob/main/assets/Hi.gif?raw=true" width="30px"/>
 </h1>
 
-#### I like mobile application development! 📱
+#### I am into mobile application development! 📱
 
 <table style="border-collapse:collapse;" border="1">
   <tr>
@@ -64,10 +64,10 @@ Hi, I'm Maxim. <img alt="Salute" src="https://github.com/cmadrid19/Mine/blob/mai
 ![](https://github-readme-stats.codestackr.vercel.app/api?username=cmadrid19&show_icons=true&hide_border=true)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cmadrid19&layout=compact)
 
 #### I'm also interested in:
-- Bitcoin 
+- Cryptocurrency
 - Accounting 
 - Finance 
-- MEMEs
+
 
 <br/>
 
