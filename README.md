@@ -61,8 +61,8 @@ Hi, I'm Maxim. <img alt="Salute" src="https://github.com/cmadrid19/Mine/blob/mai
 <br/>
 
 
-  GitHub Stats |  GitHub Stats
-:-------------------------:
+GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maximmacari&layout=compact)
 
 #### I'm also interested in:
