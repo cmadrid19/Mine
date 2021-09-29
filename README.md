@@ -63,7 +63,7 @@ Hi, I'm Maxim. <img alt="Salute" src="https://github.com/cmadrid19/Mine/blob/mai
 
   GitHub Stats |  GitHub Stats
 :-------------------------:|:-------------------------:
-![](https://github-readme-stats.codestackr.vercel.app/api?username=cmadrid19&show_icons=true&hide_border=true)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cmadrid19&layout=compact)
+![](https://github-readme-stats.codestackr.vercel.app/api?username=maximmacari19&show_icons=true&hide_border=true)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maximmacari&layout=compact)
 
 #### I'm also interested in:
 - Cryptocurrency
