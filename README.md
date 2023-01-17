@@ -23,14 +23,17 @@ Hi, I'm Maxim. <img alt="Salute" src="https://github.com/cmadrid19/Mine/blob/mai
   <tr>
     <td><img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/> &nbsp; Java</td>
     <td><img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/> &nbsp; CSS</td>
-    <td><img align="left" alt="Flutter" width="48px" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup-bg.jpg"/> &nbsp; Flutter</td>
+    <td>
+    <img align="left" alt="Vapor" width="26px" src="https://avatars.githubusercontent.com/u/17364220?s=200&v=4"/> &nbsp; Vapor</td>
     <td><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/> &nbsp; Git / SVN</td>
     <td><img align="left" alt="Android Studio" width="26px" src="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/d0/88/2a/d0882a24-5851-8833-ec52-5e2792e7ac8a/Xcode-85-220-0-4-2x.png/1200x630bb.png"/>&nbsp; XCode</td>
   </tr>
   <tr>
     <td><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> &nbsp; JavaScript</td>
     <td><img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"/> &nbsp; JSON</td>
-    <td><img align="left" alt="Symfony" width="26px" src="https://avatars.githubusercontent.com/u/143937?s=200&v=4"/> &nbsp; Symfony</td>
+    <td>
+    <img align="left" alt="Flutter" width="48px" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup-bg.jpg"/> &nbsp; Flutter
+    </td>
     <td></td>
     <td><img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/> &nbsp;  Android Studio</td>
   </tr>
@@ -38,15 +41,17 @@ Hi, I'm Maxim. <img alt="Salute" src="https://github.com/cmadrid19/Mine/blob/mai
     <td><img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"/> &nbsp; Kotlin</td>
     <td><img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/> &nbsp; MySQL</td>
     <td>
-      <img align="left" alt="Vapor" width="26px" src="https://avatars.githubusercontent.com/u/17364220?s=200&v=4"/> &nbsp; Vapor
+      <img align="left" alt="Symfony" width="26px" src="https://avatars.githubusercontent.com/u/143937?s=200&v=4"/> &nbsp; Symfony
+    <td>
     </td>
-    <td></td>
     <td></td>
   </tr>
   <tr>
     <td><img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> &nbsp; Python</td>
     <td><img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/> &nbsp; SQL</td>
-    <td></td>
+    <td>
+    <img align="left" alt="Liferay" width="26px" src="https://avatars.githubusercontent.com/u/131436?s=200&v=4"/> &nbsp; Liferay
+    </td>
     <td></td>
     <td></td>
   </tr>
@@ -66,9 +71,9 @@ GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maximmacari&layout=compact)
 
 #### I'm also interested in:
-- Cryptocurrency
-- Accounting 
-- Finance 
+- **Artificial intelligence & Machine learning**
+- **Accounting**
+- **Finance**
 
 
 <br/>
